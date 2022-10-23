@@ -1,0 +1,199 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* body{
+  background-image: linear-gradient(rgb(219, 197, 197), rgb(193, 122, 122));
+} */
+.navbar-nav{
+    margin-left: 170px;
+}
+.nav-item{
+    padding-left: 45px;
+    padding-top: 5px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+.navbar-brand{
+  color: white;
+}
+.carousel-item img{
+  height: 400px;
+}
+.container{
+  width: 100%;
+}
+nav{
+  background-image: linear-gradient(rgb(121, 203, 203), rgb(114, 98, 230));
+}
+.carousel-caption{
+  margin-bottom: 114px;
+  text-transform: uppercase;
+  color: black;
+  color: white;
+  text-shadow: 2px 2px 4px #ded711;
+  font-weight: 500;
+}
+li,.nav-item a:hover{
+    color: aqua !important;
+}
+li,.nav-item a{
+  color: white !important;
+}
+.btn-clr{
+  color: black !important;
+}
+.card-section{
+    display: flex;
+}
+.card{
+  box-shadow: 20px 20px 10px rgb(128, 128, 128);
+  width: 100% !important;
+  background-image: linear-gradient(rgb(121, 203, 203), rgb(230, 98, 182));
+}
+.card img{
+  width: 180px;
+    height: 214px;
+    border-radius: 80px;
+    margin-top: 20px;
+    margin-left: 101px !important;
+}
+.card-body{
+  text-align: center;
+  color: white !important;
+}
+.card-body h5{
+  text-transform: uppercase;
+}
+.carousel-item{
+  margin-bottom: 40px !important;
+}
+.btn-color{
+  background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105)) !important;
+  text-transform: uppercase;
+  border: none;
+  font-weight: 500;
+}
+.btn-color:hover{
+  color: black;
+  background-image: linear-gradient(rgb(121, 203, 203), rgb(230, 98, 182)) !important;
+  transition: 0.5s ease all !important;
+}
+.fst-card{
+  width: 365px !important;
+  height: 466px !important;
+}
+.crd-1st-mrgin{
+  margin-left: 110px;
+  border-radius: 40px;
+}
+.crd-2nd-mrgin{
+  margin-left: 200px;
+  border-radius: 40px;
+}
+.crd-3rd-mrgin{
+    margin-left: 290px;
+    border-radius: 40px;
+}
+.holl-headding{
+    display: flex;
+}
+.fst-headding,.secnd-headding,.thrd-hedding{
+  font-weight: 400;
+  padding: 8px 12px;
+  margin-top: 20px !important;
+}
+.one,.two,.third{
+  margin-right: 5%;
+  padding-left: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+}
+.fst-pera,.secnd-pera,.third-pera{
+    text-align: center;
+}
+.experiences{
+  padding-bottom: 80px;
+}
+.pera{
+  text-align: justify;
+  padding-bottom: 15px;
+}
+.lorem{
+  background-color: aliceblue;
+  padding: 10px 5px;
+}
+.contact-button{
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 60px;
+  text-align: center;
+  color: white;
+  margin-left: 520px;
+  border-radius: 10px;
+  background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105)) !important;
+}
+.contact-button:hover{
+    color: black;
+    background-image: linear-gradient(rgb(121, 203, 203), rgb(230, 98, 182)) !important;
+    transition: 0.5s ease all !important;
+}
+
+.two-part-section{
+  display: flex;
+  margin-left: 205px;
+  padding-top: 40px;
+}
+.two-card{
+  height: 340px;
+    width: 510px;
+    margin-right: 76px;
+    box-shadow: -1px -7px 35px grey;
+}
+
+.three-card{
+  height: 340px;
+    width: 510px;
+    margin-right: 76px;
+    box-shadow: -1px -7px 35px grey;
+}
+.some-quick{
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 15px;
+}
+.social{
+  display: flex;
+  margin-top: 260px;
+  padding-bottom: 45px;
+  margin-left: 103px;
+  box-shadow: 10px 10px 40px grey;
+}
+.fstpart{
+  margin-left: 190px;
+  margin-top: 55px;
+}
+.secndpart{
+  margin-left: 230px;
+  margin-top: 55px;
+}
+.thirdpart{
+  margin-left: 220px;
+  margin-top: 55px;
+}
+.have{
+  margin-top: 90px;
+    padding: 42px 48px;
+    background: darkseagreen;
+    background-image: linear-gradient(rgb(121, 203, 203), rgb(230, 98, 182)) !important;
+}
+.like{
+  text-align: center;
+  font-weight: 500;
+}
+.nice{
+  text-align: center;
+  font-size: 25px;
+}
